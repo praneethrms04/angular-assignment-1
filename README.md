@@ -1,3 +1,19 @@
+#Components : 
+What is Component ?   
+=> building block of Angular application. Each component consists of 
+HTML template —  rendering on page (content display)
+Type Script —-  defines behaviour
+CSS selector —-- styling
+Specification file —- testing
+How to create component
+     ng generate component <component name> 
+How to edit component
+How to use component
+Styling a component 
+
+
+
+
 # ComponetsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
